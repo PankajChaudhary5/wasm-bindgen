@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["escape","The `CSS.escape()` function."],["supports","The `CSS.supports()` function."],["supports_with_value","The `CSS.supports()` function."]]});
